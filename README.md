@@ -1,2 +1,3 @@
 # hello-world
-GitHub Hello World Guide and Fundamentals
+Hi! My name is Karl Jr and I like money!
+
